@@ -1,0 +1,14 @@
+D:\Проекты\class Student c#\bin\Debug\net8.0\class Student c#.exe
+D:\Проекты\class Student c#\bin\Debug\net8.0\class Student c#.deps.json
+D:\Проекты\class Student c#\bin\Debug\net8.0\class Student c#.runtimeconfig.json
+D:\Проекты\class Student c#\bin\Debug\net8.0\class Student c#.dll
+D:\Проекты\class Student c#\bin\Debug\net8.0\class Student c#.pdb
+D:\Проекты\class Student c#\obj\Debug\net8.0\class Student c#.GeneratedMSBuildEditorConfig.editorconfig
+D:\Проекты\class Student c#\obj\Debug\net8.0\class Student c#.AssemblyInfoInputs.cache
+D:\Проекты\class Student c#\obj\Debug\net8.0\class Student c#.AssemblyInfo.cs
+D:\Проекты\class Student c#\obj\Debug\net8.0\class Student c#.csproj.CoreCompileInputs.cache
+D:\Проекты\class Student c#\obj\Debug\net8.0\class Student c#.dll
+D:\Проекты\class Student c#\obj\Debug\net8.0\refint\class Student c#.dll
+D:\Проекты\class Student c#\obj\Debug\net8.0\class Student c#.pdb
+D:\Проекты\class Student c#\obj\Debug\net8.0\class Student c#.genruntimeconfig.cache
+D:\Проекты\class Student c#\obj\Debug\net8.0\ref\class Student c#.dll
